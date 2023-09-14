@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@babylonjs/inspector": "^6.21.0"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.2.7",
+    "knip": "^2.24.1"
+  }
+}
